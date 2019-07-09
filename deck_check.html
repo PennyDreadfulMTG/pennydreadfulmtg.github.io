@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>PD-Deck Check</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Customizations -->
+    <link href="css/pd.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Penny Dreadful</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+
+          <ul class="nav navbar-nav">
+            <li><a href="http://pdmtgo.com">Home</a></li>
+            <li><a href="http://blog.pdmtgo.com">Blog</a></li>
+            <li class="active"><a href="#">Deck Checker <span class="sr-only">(current)</span></a></li>
+          </ul>
+
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Deck Checker</h1>
+        <p>Card lines must use the format "# Card Name".  Other lines will be ignored.  (ex: "Sideboard", "Creatures", and blank lines)</p>
+        <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
+        <div class="row">
+          <div class="col-md-6">
+            <textarea id="decklist" rows="20" cols="50" class="pull-right" placeholder="Paste your decklist here"></textarea>
+            <!-- <p><a class="btn btn-default" href="legal_cards.txt" role="button">0.01 Tix List &raquo;</a></p> -->
+          </div>
+          <div class="col-md-6">
+            <div id="nLoading" class="alert alert-info" role="alert"><strong>Loading</strong>, please wait...</div>
+
+            <div id="nCheckButton" style="display:none;" class="alert" role="alert"><button id="checkButton" type="button" class="btn btn-primary">Check the Deck</button></div>
+
+            <div id="nChecking" style="display:none;" class="alert alert-info" role="alert">Checking...</div>
+
+            <div id="nContains" style="display:none;" class="alert alert-info" role="alert">Deck contains <span id="cardCount"></span>.</div>
+
+            <div id="nFewCards" style="display:none;" class="alert alert-danger" role="alert">There are less than 60 cards in your deck.</div>
+
+            <div id="nLegal" style="display:none;" class="alert alert-success" role="alert">The deck has only legal cards.</div>
+
+            <div id="nIllegal" style="display:none;" class="alert alert-danger" role="alert">The following cards in your deck are not legal:<br>
+            <ul id="illegalCards"></ul></div>
+
+            <div id="nError" style="display:none;" class="bg-danger" role="alert">There has been an error.  Please refresh the page to continue.</div>
+          </div>
+        </div>
+
+
+      <div class="row" style="margin-top:20px">
+        <div class="col-md-12">
+          <div class="alert alert-warning" role="alert">
+            <p>For dual-cards, use the form "Pure // Simple".  Report issues in the official Discord channel.</p>
+          </div>
+        </div>
+      </div>
+      </div>
+
+    </div>
+
+    <!-- <p id="devLegalCards" style="display:none"></p> -->
+
+
+
+    <div class="container">
+
+      <footer>
+        <p>Site created and maintained by Zachery Delafosse and binarySwordsman</p>
+      </footer>
+    </div> <!-- /container -->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/deck_check.js"></script>
+
+    <!-- a penny for your time -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-81565158-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
