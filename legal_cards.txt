@@ -166,7 +166,7 @@ Aggravated Assault
 Aggressive Mammoth
 Aggressive Mining
 Aggressive Negotiations
-Aggressive Symbiosis
+Alien Symbiosis
 Aggressive Urge
 Agonasaur Rex
 Agonizing Syphon
@@ -262,7 +262,7 @@ Alert Heedbonder
 Alesha's Vanguard
 Alesha, Who Laughs at Fate
 Alesha, Who Smiles at Death
-Alessos and Pras, Acrobats
+Spider-Man India
 Algae Gharial
 Alhammarret's Archive
 Alhammarret, High Arbiter
@@ -420,7 +420,7 @@ Angelic Wall
 Angelsong
 Anger of the Gods
 Angler Turtle
-Angler's Shield
+Biorganic Carapace
 Angrath's Fury
 Angrath's Marauders
 Angrath, Captain of Chaos
@@ -592,7 +592,7 @@ Argothian Sprite
 Argothian Swine
 Argothian Treefolk
 Arguel's Blood Fast
-Argyr, Tidal Spinner
+Spider-Byte, Web Warden
 Aria of Flame
 Arixmethes, Slumbering Isle
 Arlinn Kord
@@ -932,7 +932,7 @@ Balustrade Wurm
 Band Together
 Bandage
 Bane Alley Blackguard
-Bane-Marked Leonin
+Venomized Cat
 Banefire
 Baneful Omen
 Banehound
@@ -1085,7 +1085,7 @@ Behemoth's Herald
 Behold the Beyond
 Beifong's Bounty Hunters
 Belfry Spirit
-Belion, the Parched
+Hydro-Man, Fluid Felon
 Belligerent Brontodon
 Belligerent Hatchling
 Belligerent Whiptail
@@ -1477,7 +1477,7 @@ Borrowed Hostility
 Borrowed Malevolence
 Borrowing 100,000 Arrows
 Bortuk Bonerattle
-Borys, the Spider Rider
+Scarlet Spider, Ben Reilly
 Boseiju, Who Shelters All
 Bosh, Iron Golem
 Bosk Banneret
@@ -1717,7 +1717,7 @@ Cackling Imp
 Cackling Slasher
 Cacophodon
 Cactarantula
-Cactarantula Saddle
+Spider-Suit
 Cadaver Imp
 Caduceus, Staff of Hermes
 Cage of Hands
@@ -1760,7 +1760,7 @@ Callous Giant
 Callous Inspector
 Callous Oppressor
 Callow Jushi
-Cam and Farrik, Havoc Duo
+Hobgoblin, Mantled Marauder
 Camaraderie
 Camellia, the Seedmiser
 Campus Guide
@@ -1815,7 +1815,7 @@ Caravan Vigil
 Carbonize
 Caress of Phyrexia
 Caribou Range
-Carlo, Suave Schemer
+Prowler, Clawed Thief
 Carmen, Cruel Skymarcher
 Carnage Altar
 Carnage Gladiator
@@ -1828,7 +1828,7 @@ Carnival Hellsteed
 Carnivorous Canopy
 Carnophage
 Carom
-Carriage of Dreams
+Passenger Ferry
 Carrion Ants
 Carrion Beetles
 Carrion Call
@@ -2136,7 +2136,7 @@ Circle of Protection: Shadow
 Circle of Solace
 Circu, Dimir Lobotomist
 Circular Logic
-Cirina Bargainspinner
+Sun-Spider, Nimble Webber
 Citadel Castellan
 Citadel Siege
 Citanul Centaurs
@@ -2160,7 +2160,7 @@ Clamor Shaman
 Clamorous Ironclad
 Clan Defiance
 Clan Guildmage
-Clandestine Work
+Risky Research
 Clarion Ultimatum
 Clash of Realities
 Clattering Skeletons
@@ -2324,7 +2324,7 @@ Conduit Goblin
 Conduit of Ruin
 Conduit of Worlds
 Confessor
-Confessor's Bindings
+Rent Is Due
 Confirm Suspicions
 Confiscation Coup
 Conflux
@@ -2504,7 +2504,7 @@ Crash Landing
 Crash Through
 Crash and Burn
 Crash the Ramparts
-Crash, Reckless Endrider
+Shriek, Treblemaker
 Crashing Boars
 Crashing Centaur
 Crashing Wave
@@ -2571,7 +2571,7 @@ Crucible of the Spirit Dragon
 Crude Rampart
 Cruel Administrator
 Cruel Bargain
-Cruel Caracals
+Kraven's Cats
 Cruel Feeding
 Cruel Reality
 Cruel Revival
@@ -2723,7 +2723,7 @@ Damage Control Crew
 Damn
 Damnable Pact
 Damnation
-Damning Caress
+Venom's Hunger
 Damping Matrix
 Dance of the Manse
 Dance of the Skywise
@@ -2887,7 +2887,7 @@ Deathbringer Thoctar
 Deathcap Cultivator
 Deathcoil Wurm
 Deathcurse Ogre
-Deathflame Burst
+Electro's Bolt
 Deathforge Shaman
 Deathgaze Cockatrice
 Deathgazer
@@ -2986,7 +2986,7 @@ Demand Answers
 Demanding Dragon
 Dematerialize
 Dementia Bat
-Demera, Soul of a Spider
+Mary Jane Watson
 Demigod of Revenge
 Demolish
 Demon of Catastrophes
@@ -3118,7 +3118,7 @@ Dig Through Time
 Dig Up
 Dihada's Ploy
 Diligent Excavator
-Diligent Webkeepers
+Web-Warriors
 Diligent Zookeeper
 Diluvian Primordial
 Dimensional Breach
@@ -3602,7 +3602,7 @@ Ebon Praetor
 Ebonblade Reaper
 Ebondeath, Dracolich
 Ebony Horse
-Eccentric Arachnologist
+Guy in the Chair
 Echo Chamber
 Echo Inspector
 Echo Mage
@@ -3901,7 +3901,7 @@ Erratic Explosion
 Erratic Mutation
 Erratic Portal
 Erratic Visionary
-Error-9, Viral Node
+Living Brain, Mechanical Marvel
 Erstwhile Trooper
 Ertai Resurrected
 Ertai's Trickery
@@ -4202,7 +4202,7 @@ Fateful Handoff
 Fateful Showdown
 Fatespinner
 Fatestitcher
-Fateweaver
+Radioactive Spider
 Fathom Feeder
 Fathom Fleet Boarder
 Fathom Fleet Captain
@@ -4226,7 +4226,7 @@ Fear
 Fear of Immobility
 Fearless Pup
 Fearless Swashbuckler
-Fearsome Ridgeline
+Daily Bugle Building
 Fearsome Temper
 Feast of Blood
 Feast of Dreams
@@ -4637,7 +4637,7 @@ Fraying Omnipotence
 Fraying Sanity
 Frazzle
 Freejam Regent
-Freestrider Aces
+Wild Pack Squad
 Freestrider Commando
 Freestrider Lookout
 Freewind Equenaut
@@ -4702,7 +4702,7 @@ Fugue
 Fulgent Distraction
 Full Moon's Rise
 Full Throttle
-Full-Throttle Fanatic
+Taxi Driver
 Fumarole
 Fume Spitter
 Fumigate
@@ -5071,7 +5071,7 @@ Gloom Surgeon
 Gloomhunter
 Gloomwidow
 Gloomwidow's Feast
-Gloria, the Great Armorer
+Araña, Heart of the Spider
 Glorifier of Dusk
 Glorious Anthem
 Glorious Charge
@@ -5812,7 +5812,7 @@ Heron-Blessed Geist
 Hew the Entwood
 Hex
 Hex Parasite
-Hex of Undeath
+Behold the Sinister Six!
 Hexbane Tortoise
 Hexgold Slith
 Hexplate Golem
@@ -6482,7 +6482,7 @@ Jailbreak Scheme
 Jalira, Master Polymorphist
 Jalum Tome
 Jamuraan Lion
-Janai and Hoppy, Roofskippers
+Spider-Girl, Legacy Hero
 Jandor's Saddlebags
 Jar of Eyeballs
 Jarad's Orders
@@ -6731,7 +6731,7 @@ Kazandu Mammoth
 Kazandu Stomper
 Kazandu Tuskcaller
 Kazarov, Sengir Pureblood
-Kazuo, Ruthless Rival
+Shocker, Unshakable
 Kazuul Warlord
 Kazuul, Tyrant of the Cliffs
 Kederekt Creeper
@@ -6777,7 +6777,7 @@ Kemba, Kha Enduring
 Kemba, Kha Regent
 Kenrith, the Returned King
 Kentaro, the Smiling Cat
-Kephon, Rage Incubator
+Stegron the Dinosaur Man
 Keranos, God of Storms
 Keruga, the Macrosage
 Kess, Dissident Mage
@@ -6876,7 +6876,7 @@ Kitsune Bonesetter
 Kitsune Healer
 Kitsune Mystic
 Kitsune Riftwalker
-Kivni, Orb Weaver
+Scarlet Spider, Kaine
 Kiyomaro, First to Stand
 Kjeldoran Elite Guard
 Kjeldoran Frostbeast
@@ -7121,7 +7121,7 @@ Lava Flow
 Lava Hounds
 Lavaball Trap
 Lavaborn Muse
-Lavabrink Repels the Magmaloth
+Maximum Carnage
 Lavabrink Venturer
 Lavaclaw Reaches
 Lavafume Invoker
@@ -7411,7 +7411,7 @@ Lost Legacy
 Lost Legion
 Lost Leonin
 Lost Order of Jarkeld
-Lost in Littjara
+The Clone Saga
 Lost in a Labyrinth
 Lost in the Maze
 Lost in the Mist
@@ -8285,7 +8285,7 @@ Mothdust Changeling
 Mother Bear
 Mothrider Patrol
 Mothrider Samurai
-Mothwing Shroud
+Web Up
 Mount Doom
 Mount Velus Manticore
 Mountain
@@ -8702,7 +8702,7 @@ Noxious Dragon
 Noxious Gearhulk
 Noxious Groodion
 Noyan Dar, Roil Shaper
-Nu and Sumi, Career Criminals
+Green Goblin, Revenant
 Nuisance Engine
 Null Champion
 Null Profusion
@@ -8777,7 +8777,7 @@ Oblivion Stone
 Oblivion Strike
 Oboro, Palace in the Clouds
 Obosh, the Preypiercer
-Obscura Alleylurkers
+Doc Ock's Henchmen
 Obscura Ascendancy
 Obscura Initiate
 Obscura Interceptor
@@ -8924,7 +8924,7 @@ Opportunist
 Opportunistic Dragon
 Oppression
 Oppressive Will
-Opulent Valet
+News Helicopter
 Oracle en-Vec
 Oracle of Bones
 Oracle of Dust
@@ -8994,7 +8994,7 @@ Ornery Tumblewagg
 Orochi Hatchery
 Orochi Ranger
 Oros, the Avenger
-Orris, Last of the Web Lords
+Ezekiel Sims, Spider-Totem
 Orthion, Hero of Lavabrink
 Orzhov Basilica
 Orzhov Charm
@@ -9205,7 +9205,7 @@ Peppersmoke
 Peregrination
 Peregrine Griffin
 Perennial Behemoth
-Perfected Pastry
+Bagel and Schmear
 Perilous Forays
 Perilous Myr
 Perilous Research
@@ -9578,7 +9578,7 @@ Primordial Hydra
 Primordial Sage
 Primordial Wurm
 Prince of Thralls
-Principled Referee
+Daily Bugle Reporters
 Prism Array
 Prismatic Boon
 Prismatic Omen
@@ -9746,7 +9746,7 @@ Qarsi Revenant
 Qarsi Sadist
 Qasali Ambusher
 Qasali Slingers
-Qoneus, Horizon Splicer
+The Spot, Living Portal
 Quag Feast
 Quag Sickness
 Quag Vampires
@@ -10001,7 +10001,7 @@ Ready // Willing
 Ready to Rumble
 Reality Acid
 Reality Anchor
-Reality Fulcrum
+Interdimensional Web Watch
 Reality Hemorrhage
 Reality Smasher
 Reality Spasm
@@ -10199,7 +10199,7 @@ Restless Cottage
 Restless Dreams
 Restless Fortress
 Restless Prairie
-Restless Razorkin
+Superior Foes of Spider-Man
 Restless Reef
 Restless Ridgeline
 Restless Spire
@@ -10267,7 +10267,7 @@ Reweave
 Rewind
 Reya Dawnbringer
 Rhet-Crop Spearmaster
-Rhilex the Accursed
+Agent Venom
 Rhino's Rampage
 Rhonas the Indomitable
 Rhonas's Last Stand
@@ -10502,7 +10502,7 @@ Rotting Regisaur
 Rotwidow Pack
 Rough Rhino Cavalry
 Rouse the Mob
-Rouse the Swarm
+Wall Crawl
 Roving Keep
 Rowan's Stalwarts
 Rowan, Fearless Sparkmage
@@ -10601,7 +10601,7 @@ Ruthless Deathfang
 Ruthless Invasion
 Ruthless Knave
 Ruthless Ripper
-Ruzic, Booed but Victorious
+Ultimate Green Goblin
 Ryusei, the Falling Star
 SP//dr, Piloted by Peni
 Saber-Tooth Moose-Lion
@@ -10861,7 +10861,7 @@ Scion of Vitu-Ghazi
 Scion of the Swarm
 Scion of the Ur-Dragon
 Scion of the Wild
-Scions of the Ur-Spider
+Cosmic Spider-Man
 Scorch Rider
 Scorch Spitter
 Scorch the Fields
@@ -11555,7 +11555,7 @@ Skitter Eel
 Skitterbeam Battalion
 Skittering Heartstopper
 Skittering Horror
-Skittering Kitten
+Masked Meower
 Skittering Monstrosity
 Skoa, Embermage
 Skola Grovedancer
@@ -11575,7 +11575,7 @@ Skullmane Baku
 Skullmead Cauldron
 Skullmulcher
 Skulltap
-Skv'x the Augmenter
+Symbiote Spider-Man
 Sky Crier
 Sky Hussar
 Sky Ruin Drake
@@ -12201,7 +12201,7 @@ Steelform Sliver
 Steelgaze Griffin
 Steeling Stance
 Steelshaper Apprentice
-Steelweb Surveyor
+Spider-Bot
 Steeple Roc
 Steer Clear
 Stenchskipper
@@ -12236,7 +12236,7 @@ Stitched Drake
 Stitched Mangler
 Stitcher's Apprentice
 Stitcher's Graft
-Stitcher's Wings
+Rocket-Powered Goblin Glider
 Stoic Angel
 Stoic Builder
 Stoic Champion
@@ -12716,7 +12716,7 @@ Tar Pit Warrior
 Tar Pitcher
 Tar Snare
 Taranika, Akroan Veteran
-Tarantusk, Unwisely Awoken
+Spider-Ham, Peter Porker
 Tarkir Duneshaper
 Tarnation Vista
 Tarox Bladewing
@@ -12880,7 +12880,7 @@ Teshar, Ancestor's Apostle
 Test of Endurance
 Test of Faith
 Tethered Skirge
-Tethex, Gift of Malice
+Venom, Evil Unleashed
 Tethmos High Priest
 Tetsuo Umezawa
 Tetzimoc, Primal Death
@@ -12948,7 +12948,7 @@ The Celestus
 The Chain Veil
 The Chase Is On
 The Circle of Loyalty
-The Clutter Cluster
+Spiders-Man, Heroic Horde
 The Cruelty of Gix
 The Darkness Crystal
 The Deck of Many Things
@@ -12973,7 +12973,7 @@ The Goose Mother
 The Great Aurora
 The Haunt of Hightower
 The Hive
-The House Grows Hungry
+The Death of Gwen Stacy
 The Huntsman's Redemption
 The Immortal Sun
 The Irencrag
@@ -13008,7 +13008,7 @@ The Rollercrusher Ride
 The Royal Scions
 The Scarab God
 The Scorpion God
-The Scouring Stormsoul
+Sandman, Shifting Scoundrel
 The Seedcore
 The Seriema
 The Shattered States Era
@@ -13027,7 +13027,7 @@ The Unagi of Kyoshi Island
 The Unspeakable
 The Wandering Minstrel
 The Watcher in the Water
-The Watcher on the Road
+Mysterio, Master of Illusion
 The Water Crystal
 The Wind Crystal
 The World Spell
@@ -13622,7 +13622,7 @@ Ugin's Conjurant
 Ugin's Insight
 Ugin's Nexus
 Ugin, the Ineffable
-Uharis, the Stormspinner
+Spider-Man 2099
 Uktabi Efreet
 Uktabi Wildcats
 Ukud Cobra
@@ -14052,7 +14052,7 @@ Vinelasher Kudzu
 Vines of the Recluse
 Vineshaper Mystic
 Vineweft
-Vinewoven Chariot
+Subway Train
 Violent Impact
 Violent Ultimatum
 Violet Pall
@@ -14301,7 +14301,7 @@ Warden of the First Tree
 Warden of the Grove
 Warden of the Inner Sky
 Warden of the Wall
-Wardens of Silverweb Summit
+Spider-Gwen, Free Spirit
 Wardscale Crocodile
 Warg Rider
 Wargate
@@ -14713,7 +14713,7 @@ Wrecking Ogre
 Wren's Run Packmaster
 Wren's Run Vanquisher
 Wrench
-Wrench, Speedway Saboteur
+Black Cat, Cunning Thief
 Wretched Anurid
 Wretched Banquet
 Wretched Camel
@@ -14737,7 +14737,7 @@ Xathrid Demon
 Xathrid Gorgon
 Xathrid Necromancer
 Xathrid Slyblade
-Xecau, Predation's Shadow
+Rhino, Barreling Brute
 Xenagos, God of Revels
 Xenagos, the Reveler
 Xenic Poltergeist
@@ -14806,7 +14806,7 @@ Zahid, Djinn of the Lamp
 Zahur, Glory's Past
 Zalto, Fire Giant Duke
 Zameck Guildmage
-Zan, Tunnelweb Explorer
+Spider-Man, Brooklyn Visionary
 Zanarkand, Ancient Metropolis
 Zareth San, the Trickster
 Zarichi Tiger
