@@ -9785,7 +9785,7 @@ Primordial Hydra
 Primordial Sage
 Primordial Wurm
 Prince of Thralls
-Principled Referee
+Daily Bugle Reporters
 Prishe's Wanderings
 Prism Array
 Prismabasher
@@ -13303,7 +13303,7 @@ The Walls of Ba Sing Se
 The Wandering Minstrel
 The Wandering Rescuer
 Mysterio, Master of Illusion
-The Watcher on the Road
+The Watcher in the Water
 The Water Crystal
 The Wind Crystal
 The World Spell
