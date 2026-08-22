@@ -3861,6 +3861,7 @@ Enhanced Awareness
 Enigma Sphinx
 Enigma Thief
 Enigmatic Incarnation
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -7921,7 +7922,6 @@ Metrognome
 Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
-Michonne, Ruthless Survivor
 Midnight Banshee
 Midnight Charm
 Midnight Covenant

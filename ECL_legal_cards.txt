@@ -5113,6 +5113,7 @@ Gimli's Axe
 Gimli, Mournful Avenger
 Gird for Battle
 Gisa and Geralf
+Gisa's Favorite Shovel
 Gisa, Glorious Resurrector
 Gisa, the Hellraiser
 Gisela, Blade of Goldnight
@@ -7653,7 +7654,6 @@ Loyal Warhound
 Lu Bu, Master-at-Arms
 Lu Xun, Scholar General
 Lucent Liminid
-Lucille
 Ludevic's Test Subject
 Ludevic, Necrogenius
 Lukka, Bound to Ruin
@@ -15045,7 +15045,7 @@ Witch-king of Angmar
 Witchbane Orb
 Witches' Eye
 Witchstalker
-With Great Power...
+With Great Power . . .
 Withering Gaze
 Witherscale Wurm
 Without Weakness

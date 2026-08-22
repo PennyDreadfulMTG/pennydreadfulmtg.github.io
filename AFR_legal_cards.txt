@@ -3762,6 +3762,7 @@ Enhanced Awareness
 Enigma Sphinx
 Enigma Thief
 Enigmatic Incarnation
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -4911,6 +4912,7 @@ Gingerbread Cabin
 Gingerbrute
 Gisa and Geralf
 Gisa's Bidding
+Gisa's Favorite Shovel
 Gitaxian Probe
 Give // Take
 Glacial Crasher
@@ -7304,7 +7306,6 @@ Lu Bu, Master-at-Arms
 Lu Xun, Scholar General
 Lucent Liminid
 Lucid Dreams
-Lucille
 Lucky Clover
 Ludevic's Test Subject
 Lull
@@ -7767,7 +7768,6 @@ Metrognome
 Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
-Michonne, Ruthless Survivor
 Midnight Banshee
 Midnight Charm
 Midnight Clock

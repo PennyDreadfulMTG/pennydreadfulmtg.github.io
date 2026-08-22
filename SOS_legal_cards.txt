@@ -5041,6 +5041,7 @@ Gimli, Mournful Avenger
 Gird for Battle
 Gisa and Geralf
 Gisa's Bidding
+Gisa's Favorite Shovel
 Gisa, Glorious Resurrector
 Gisa, the Hellraiser
 Gisela, Blade of Goldnight
@@ -7527,7 +7528,6 @@ Loyal Warhound
 Lu Bu, Master-at-Arms
 Lu Xun, Scholar General
 Lucent Liminid
-Lucille
 Ludevic's Test Subject
 Ludevic, Necrogenius
 Luke Cage, Power Man

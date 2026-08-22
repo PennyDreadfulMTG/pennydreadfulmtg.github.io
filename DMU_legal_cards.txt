@@ -3996,6 +3996,7 @@ Engulfing Slagwurm
 Enhanced Awareness
 Enigma Eidolon
 Enigma Sphinx
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -5244,7 +5245,6 @@ Gleancrawler
 Glen Elendra Archmage
 Glen Elendra Liege
 Glen Elendra Pranksters
-Glenn, the Voice of Calm
 Gliding Licid
 Glimmer Bairn
 Glimmerbell
@@ -5615,6 +5615,7 @@ Greenwarden of Murasa
 Greenweaver Druid
 Greenwheel Liberator
 Greenwood Sentinel
+Gregor, Shrewd Magistrate
 Gremlin Mine
 Grenzo, Dungeon Warden
 Grid Monitor
@@ -7877,6 +7878,7 @@ Malicious Advice
 Malicious Intent
 Malicious Malfunction
 Malignus
+Malik, Grim Manipulator
 Mammoth Growth
 Mammoth Spider
 Mammoth Umbra
@@ -8202,7 +8204,6 @@ Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
 Michiko's Reign of Truth
-Michonne, Ruthless Survivor
 Micromancer
 Midnight Assassin
 Midnight Banshee
@@ -8808,7 +8809,6 @@ Needletooth Raptor
 Nef-Crop Entangler
 Nefarox, Overlord of Grixis
 Nefashu
-Negan, the Cold-Blooded
 Negate
 Neglected Heirloom
 Neheb, Dreadhorde Champion

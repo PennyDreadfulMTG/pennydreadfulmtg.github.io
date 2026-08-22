@@ -2616,7 +2616,6 @@ Daru Encampment
 Daru Healer
 Daru Spiritualist
 Daru Stinger
-Daryl, Hunter of Walkers
 Dash Hopes
 Daunting Defender
 Dauntless Aven
@@ -5293,6 +5292,7 @@ Hands of Binding
 Hanged Executioner
 Hankyu
 Hanna, Ship's Navigator
+Hansk, Slayer Zealot
 Hanweir Battlements
 Hanweir Garrison
 Hanweir Lancer
@@ -7143,6 +7143,7 @@ Malfunction
 Malicious Advice
 Malicious Intent
 Malignus
+Malik, Grim Manipulator
 Mammoth Growth
 Mammoth Spider
 Mammoth Umbra
@@ -7989,7 +7990,6 @@ Nef-Crop Entangler
 Nefarious Lich
 Nefarox, Overlord of Grixis
 Nefashu
-Negan, the Cold-Blooded
 Negate
 Neheb, Dreadhorde Champion
 Neheb, the Worthy

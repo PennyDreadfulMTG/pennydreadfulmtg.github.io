@@ -4181,6 +4181,7 @@ Enhanced Awareness
 Enigma Eidolon
 Enigma Sphinx
 Enigmatic Incarnation
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -8299,6 +8300,7 @@ Malicious Intent
 Malicious Malfunction
 Malignant Growth
 Malignus
+Malik, Grim Manipulator
 Mammoth Growth
 Mammoth Spider
 Mammoth Umbra
@@ -8638,7 +8640,6 @@ Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
 Michiko's Reign of Truth
-Michonne, Ruthless Survivor
 Micromancer
 Midnight Assassin
 Midnight Banshee
@@ -9277,7 +9278,6 @@ Needletooth Raptor
 Nef-Crop Entangler
 Nefarox, Overlord of Grixis
 Nefashu
-Negan, the Cold-Blooded
 Negate
 Neglected Heirloom
 Neheb, Dreadhorde Champion

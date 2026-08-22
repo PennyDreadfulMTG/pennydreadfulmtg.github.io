@@ -2989,7 +2989,6 @@ Daru Encampment
 Daru Healer
 Daru Spiritualist
 Daru Stinger
-Daryl, Hunter of Walkers
 Dash Hopes
 Daunting Defender
 Dauntless Aven
@@ -4076,6 +4075,7 @@ Engulfing Slagwurm
 Enhanced Awareness
 Enigma Eidolon
 Enigma Sphinx
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -5327,6 +5327,7 @@ Gird for Battle
 Girder Goons
 Gisa and Geralf
 Gisa's Bidding
+Gisa's Favorite Shovel
 Gisa, Glorious Resurrector
 Gishath, Sun's Avatar
 Gitaxian Anatomist
@@ -5990,6 +5991,7 @@ Hand to Hand
 Hands of Binding
 Hanged Executioner
 Hankyu
+Hansk, Slayer Zealot
 Hanweir Battlements
 Hanweir Garrison
 Hanweir Lancer
@@ -7904,7 +7906,6 @@ Lu Bu, Master-at-Arms
 Lu Meng, Wu General
 Lucent Liminid
 Lucid Dreams
-Lucille
 Lucky Clover
 Lucky Offering
 Ludevic's Test Subject
@@ -8076,6 +8077,7 @@ Malicious Advice
 Malicious Intent
 Malicious Malfunction
 Malignus
+Malik, Grim Manipulator
 Mammoth Growth
 Mammoth Spider
 Mammoth Umbra
@@ -8406,7 +8408,6 @@ Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
 Michiko's Reign of Truth
-Michonne, Ruthless Survivor
 Micromancer
 Midnight Assassin
 Midnight Banshee
@@ -9036,7 +9037,6 @@ Needletooth Raptor
 Nef-Crop Entangler
 Nefarox, Overlord of Grixis
 Nefashu
-Negan, the Cold-Blooded
 Negate
 Neglected Heirloom
 Neheb, Dreadhorde Champion
