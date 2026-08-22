@@ -3881,6 +3881,7 @@ Engulfing Slagwurm
 Enhanced Awareness
 Enigma Sphinx
 Enigmatic Incarnation
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -7990,7 +7991,6 @@ Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
 Michiko's Reign of Truth
-Michonne, Ruthless Survivor
 Midnight Banshee
 Midnight Charm
 Midnight Clock

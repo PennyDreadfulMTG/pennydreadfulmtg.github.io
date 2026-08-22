@@ -2635,7 +2635,6 @@ Daru Encampment
 Daru Healer
 Daru Spiritualist
 Daru Stinger
-Daryl, Hunter of Walkers
 Dash Hopes
 Daunting Defender
 Dauntless Aven
@@ -3627,6 +3626,7 @@ Engulfing Slagwurm
 Enhanced Awareness
 Enigma Sphinx
 Enigmatic Incarnation
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -4714,6 +4714,7 @@ Gingerbread Cabin
 Gingerbrute
 Gird for Battle
 Gisa's Bidding
+Gisa's Favorite Shovel
 Gisela, Blade of Goldnight
 Give // Take
 Glacial Crasher
@@ -5292,6 +5293,7 @@ Hand to Hand
 Hands of Binding
 Hanged Executioner
 Hankyu
+Hansk, Slayer Zealot
 Hanweir Battlements
 Hanweir Garrison
 Hanweir Lancer
@@ -7002,7 +7004,6 @@ Loyal Pegasus
 Loyal Sentry
 Lu Bu, Master-at-Arms
 Lucent Liminid
-Lucille
 Lucky Clover
 Ludevic's Test Subject
 Lullmage Mentor
@@ -7450,7 +7451,6 @@ Metrognome
 Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
-Michonne, Ruthless Survivor
 Midnight Banshee
 Midnight Charm
 Midnight Clock

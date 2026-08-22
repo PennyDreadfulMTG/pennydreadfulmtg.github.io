@@ -2988,7 +2988,6 @@ Daru Encampment
 Daru Healer
 Daru Spiritualist
 Daru Stinger
-Daryl, Hunter of Walkers
 Dash Hopes
 Daunting Defender
 Dauntless Aven
@@ -4082,6 +4081,7 @@ Enhanced Awareness
 Enhanced Surveillance
 Enigma Eidolon
 Enigma Sphinx
+Enkira, Hostile Scavenger
 Enlarge
 Enlightened Ascetic
 Enlightened Maniac
@@ -5987,6 +5987,7 @@ Hands of Binding
 Hanged Executioner
 Hankyu
 Hanna, Ship's Navigator
+Hansk, Slayer Zealot
 Hanweir Battlements
 Hanweir Garrison
 Hanweir Lancer
@@ -8064,6 +8065,7 @@ Malicious Advice
 Malicious Intent
 Malicious Malfunction
 Malignus
+Malik, Grim Manipulator
 Mammoth Growth
 Mammoth Spider
 Mammoth Umbra
@@ -8394,7 +8396,6 @@ Metropolis Sprite
 Miasmic Mummy
 Michiko Konda, Truth Seeker
 Michiko's Reign of Truth
-Michonne, Ruthless Survivor
 Micromancer
 Midnight Assassin
 Midnight Banshee
@@ -9017,7 +9018,6 @@ Needletooth Raptor
 Nef-Crop Entangler
 Nefarox, Overlord of Grixis
 Nefashu
-Negan, the Cold-Blooded
 Negate
 Neglected Heirloom
 Neheb, Dreadhorde Champion
